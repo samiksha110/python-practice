@@ -1,5 +1,4 @@
 #  sum of the first N natural numbers.
-
 n = int(input())
 
 total = 0
