@@ -60,3 +60,34 @@ Good Morning
 ```
 
 ---
+# 📌 len() Function
+
+Returns the total number of characters.
+
+```python
+name = "Python"
+
+print(len(name))
+```
+
+Output
+
+```
+6
+```
+
+Remember:
+
+Spaces are also counted.
+
+```python
+len("Hello World")
+```
+
+Output
+
+```
+11
+```
+
+---
