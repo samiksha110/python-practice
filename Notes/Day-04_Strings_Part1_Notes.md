@@ -91,3 +91,69 @@ Output
 ```
 
 ---
+# 📌 Positive Indexing
+
+Python starts indexing from **0**.
+
+Example
+
+```text
+Character : P  y  t  h  o  n
+Index     : 0  1  2  3  4  5
+```
+
+Examples
+
+```python
+name[0]
+```
+
+Output
+
+```
+P
+```
+
+```python
+name[3]
+```
+
+Output
+
+```
+h
+```
+
+---
+
+# 📌 Negative Indexing
+
+Negative indexing starts from the end.
+
+```text
+Character : P  y  t  h  o  n
+Positive  : 0  1  2  3  4  5
+Negative  : -6 -5 -4 -3 -2 -1
+```
+
+Examples
+
+```python
+name[-1]
+```
+
+Output
+
+```
+n
+```
+
+```python
+name[-2]
+```
+
+Output
+
+```
+o
+```
