@@ -29,3 +29,34 @@ course = "Python"
 ```
 
 ---
+# 📌 Types of Quotes
+
+## Single Quotes
+
+```python
+name = 'Python'
+```
+
+## Double Quotes
+
+```python
+name = "Python"
+```
+
+Both are exactly the same.
+
+---
+
+## Triple Quotes
+
+Used for multiple lines.
+
+```python
+message = """
+Hello
+Welcome
+Good Morning
+"""
+```
+
+---
