@@ -180,3 +180,4 @@ print(len(set(text)))
 ✅ Fast lookup → **O(1)**
 
 **DSA Uses:** Remove duplicates, Find duplicates, Fast searching, Distinct characters.
+
