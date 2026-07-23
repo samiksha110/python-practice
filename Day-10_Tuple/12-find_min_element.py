@@ -9,3 +9,4 @@ for num in numbers:
         smallest = num
 
 print(smallest)
+
