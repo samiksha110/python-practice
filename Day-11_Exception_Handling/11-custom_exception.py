@@ -14,5 +14,3 @@ try:
 
 except InvalidMarksError as e:
     print(e)
-
-
