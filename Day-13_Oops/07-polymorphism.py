@@ -1,0 +1,22 @@
+class Car:
+
+    def start(self):
+        print("Car starts with a key.")
+
+
+class Bike:
+
+    def start(self):
+        print("Bike starts with a kick.")
+
+
+class Bus:
+
+    def start(self):
+        print("Bus starts with a button.")
+
+
+vehicles = [Car(), Bike(), Bus()]
+
+for vehicle in vehicles:
+    vehicle.start()
